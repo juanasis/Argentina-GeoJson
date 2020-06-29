@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"name": "La Rioja"}, "geometry": {"type": "centroide", "coordinates": [{"lat": -29.685776298315, "lon": -67.1817359694432}]}}]}
